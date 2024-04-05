@@ -1,3 +1,11 @@
 # kbdocs
-Knowledge Base Model
-<span style="color: red;">adding some new text</span>.
+# Welcome to blueBriX's Knowledge Base!
+Answers to your queries are just a search away
+ 
+
+
+
+ --| | |
+| ------ |------------------------- | ---- |
+| Intro|Benefits|Architecture|
+| Solutions/Modules | Certifications and Compliance | Process |
