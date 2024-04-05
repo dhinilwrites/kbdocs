@@ -5,7 +5,7 @@ Answers to your queries are just a search away
 
 
 
- --| | |
+| -- | | |
 | ------ |------------------------- | ---- |
-| Intro|Benefits|Architecture|
+| Intro | Benefits | Architecture |
 | Solutions/Modules | Certifications and Compliance | Process |
