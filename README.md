@@ -1,3 +1,3 @@
 # kbdocs
 Knowledge Base Model
-adding some new text.
+<span style="color: red;">adding some new text</span>.
