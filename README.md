@@ -2,20 +2,6 @@
 Answers to your queries are just a search away
  
 
-
-
-<<<<<<< HEAD
-
-=======
-| -- | | |
-| ------ |------------------------- | ---- |
-| Intro | Benefits | Architecture |
->>>>>>> 8c1850b2d34093440cde13f9986bbfbf07158c40
-| Solutions/Modules | Certifications and Compliance | Process |
-
-
-## heading 2
-
 <style>
 table {
   border-collapse: collapse;
