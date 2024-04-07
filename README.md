@@ -1,4 +1,3 @@
-# kbdocs
 # Welcome to blueBriX's Knowledge Base!
 Answers to your queries are just a search away
  
